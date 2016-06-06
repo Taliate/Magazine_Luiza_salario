@@ -7,3 +7,6 @@ trestes teadfasd
 =======
 Arquivo de teste do Ale.
 >>>>>>> origin/master
+
+
+mais um teste pra ver se o negocio funciona de verdade ..... 
