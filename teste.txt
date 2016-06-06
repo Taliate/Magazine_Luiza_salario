@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 jhkhkjhkjhj  hhj kjhk  kj
 
 trestes teadfasd 
+=======
+Arquivo de teste do Ale.
+>>>>>>> origin/master
